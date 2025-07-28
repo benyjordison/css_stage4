@@ -23,8 +23,8 @@ html{
 
 #design-selection {
   position: absolute;
-  top: 560px; /* abaixo da introdução */
-  left: 62%;  /* à direita da .explanation */
+  top: 560px; 
+  left: 62%;  
   width: 35%;
   padding-left: 2%;
   padding-right: 2%;
